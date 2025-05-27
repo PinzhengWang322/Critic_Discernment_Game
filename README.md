@@ -18,6 +18,8 @@ The game consists of the following three roles:
 
 ![Introduction](./figs/intro.png)
 
+The model after CDG training can be downloaded [here](https://huggingface.co/PinzhengWang/Llama_CDG).
+
 ## Requirements
 
 To install the required dependencies, use the following commands:
